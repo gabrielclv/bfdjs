@@ -1,4 +1,5 @@
 //arrays = variavel com mais de um valor anexada a esta usar ["coloque aqui seus valores"]
+//switchcase = troca de caso de acordo com a resposta recebida da readline.question
 // criar uma lista(arrays = variavel com varios valores) com times a sua escolha
 let times = ["Barcelona","Arsenal","Tottenham","Milan"]
 
