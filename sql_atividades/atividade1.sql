@@ -1,7 +1,7 @@
 -- ex 1:  Insira 3 novos alunos na tabela.
 create database alunos;
 
-use database alunos;
+use alunos;
 
 create table students (
     id int primary key auto_increment,
